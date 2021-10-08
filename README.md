@@ -9,4 +9,4 @@ There are a two ways you can contribute. You can make changes to the core give-a
 ## Why?
 
 To make the process a little faster so i don't have to convert it into json myself.
-That and i am working on the app it self.
+That and i am working on the app it self, really don't have time.
